@@ -1,11 +1,10 @@
 #Topics :-
 ##Array
-- [ ] [Reverse an Array](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/)
-- [ ] [Find Minimum and Maximum Element From Array](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/)
-- [ ] [Find 2 nd Minimum and Maximum Element From Array](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/)
-- [ ] [Find Kth Minimum and Maximum Element From Array](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/)
-- [ ] [Find Kth Minimum and Maximum Element From Array](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/)
-- [ ] [Given an Array of 0s,1s and 2s. Sort Array without using Sorting Algorithm](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0)
+- [x] [Reverse an Array](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/)
+- [x] [Find Minimum and Maximum Element From Array](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/)
+- [x] [Find 2 nd Minimum and Maximum Element From Array](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/)
+- [x] [Find Kth Minimum and Maximum Element From Array](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/)
+- [x] [Given an Array of 0s,1s and 2s. Sort Array without using Sorting Algorithm](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0)
 - [ ] [Move negative numbers beginning positive end constant extra space](https://www.geeksforgeeks.org/move-negative-numbers-beginning-positive-end-constant-extra-space/)
 - [ ] [Find Union and Intersection of two sorted Array](https://practice.geeksforgeeks.org/problems/union-of-two-arrays/0)
 - [ ] [Write a Program to Cyclically Rotate Array by kth time](https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one/0)
