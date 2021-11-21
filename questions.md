@@ -1,16 +1,18 @@
-#Topics :-
-##Array
+## Topics :-
+
+### Array
+
 - [x] [Reverse an Array](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/)
 - [x] [Find Minimum and Maximum Element From Array](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/)
 - [x] [Find 2 nd Minimum and Maximum Element From Array](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/)
 - [x] [Find Kth Minimum and Maximum Element From Array](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/)
 - [x] [Given an Array of 0s,1s and 2s. Sort Array without using Sorting Algorithm](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0)
-- [ ] [Move negative numbers beginning positive end constant extra space](https://www.geeksforgeeks.org/move-negative-numbers-beginning-positive-end-constant-extra-space/)
-- [ ] [Find Union and Intersection of two sorted Array](https://practice.geeksforgeeks.org/problems/union-of-two-arrays/0)
-- [ ] [Write a Program to Cyclically Rotate Array by kth time](https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one/0)
-- [ ] [Find the Largest contigoues SubArray](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0)
+- [x] [Move negative numbers beginning positive end with constant extra space](https://www.geeksforgeeks.org/move-negative-numbers-beginning-positive-end-constant-extra-space/)
+- [x] [Find Union and Intersection of two sorted Array](https://practice.geeksforgeeks.org/problems/union-of-two-arrays/0)
+- [x] [Write a Program to Cyclically Rotate Array by kth time](https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one/0)
+- [x] [Find the Largest contiguous SubArray](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0)
 - [ ] [Minimum and Maximum Difference between Heights](https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/1)
-- [ ] [Minimum no of jumos](https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps/0)
+- [ ] [Minimum no of jump's](https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps/0)
 - [ ] [find duplicate in an array of N+1 Integers](https://leetcode.com/problems/find-the-duplicate-number/)
 - [ ] [Merge 2 sorted arrays without using Extra space.](https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays5135/1)
 - [ ] [Kadane's Algo V.V.V.V.V IMP](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0)
@@ -39,7 +41,7 @@
 - [ ] [Median of 2 sorted arrays of equal size](https://practice.geeksforgeeks.org/problems/find-the-median0527/1)
 - [ ] [Median of 2 sorted arrays of different size](https://www.geeksforgeeks.org/median-of-two-sorted-arrays-of-different-sizes/)
 
-#Matrix
+### Matrix
 
 - [ ] [Spiral traversal on a Matrix](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix/0)
 - [ ] [Search an element in a matriix](https://leetcode.com/problems/search-a-2d-matrix/)
@@ -52,8 +54,7 @@
 - [ ] [Kth smallest element in a row-cpumn wise sorted matrix](https://practice.geeksforgeeks.org/problems/kth-element-in-matrix/1)
 - [ ] [Common elements in all rows of a given matrix](https://www.geeksforgeeks.org/common-elements-in-all-rows-of-a-given-matrix/)
 
-#String
-
+### String
 
 - [ ] [Reverse a String](https://leetcode.com/problems/reverse-string/)
 - [ ] [Check whether a String is Palindrome or not](https://practice.geeksforgeeks.org/problems/palindrome-string0817/1)
@@ -98,14 +99,14 @@
 - [ ] [Check if two given strings are isomorphic to each other](https://practice.geeksforgeeks.org/problems/isomorphic-strings/0)
 - [ ] [Recursively print all sentences that can be formed from list of word lists](https://www.geeksforgeeks.org/recursively-print-all-sentences-that-can-be-formed-from-list-of-word-lists/)
 
-#Searching & Sorting
+### Searching & Sorting
 
 - [ ] [Find first and last positions of an element in a sorted array](https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x/0)
 - [ ] [Find a Fixed Point (Value equal to index) in a given array](https://practice.geeksforgeeks.org/problems/value-equal-to-index-value1330/1)
 - [ ] [Search in a rotated sorted array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 - [ ] [square root of an integer](https://practice.geeksforgeeks.org/problems/count-squares3649/1)
 - [ ] [Maximum and minimum of an array using minimum number of comparisons](https://practice.geeksforgeeks.org/problems/middle-of-three2926/1)
-- [ ] [Optimum location of point to minimize total distance](https://www.geeksforgeeks.org/optimum-location-point-minimize-total-distance/#:~:text=We%20need%20to%20find%20a,set%20of%20points%20is%20minimum.&text=In%20above%20figure%20optimum%20location,is%20minimum%20obtainable%20total%20distance.)
+- [ ] [Optimum location of point to minimize total distance](https://www.geeksforgeeks.org/optimum-location-point-minimize-total-distance/###:~:text=We%20need%20to%20find%20a,set%20of%20points%20is%20minimum.&text=In%20above%20figure%20optimum%20location,is%20minimum%20obtainable%20total%20distance.)
 - [ ] [Find the repeating and the missing](https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1)
 - [ ] [find majority element](https://practice.geeksforgeeks.org/problems/majority-element/0)
 - [ ] [Searching in an array where adjacent differ by at most k](https://www.geeksforgeeks.org/searching-array-adjacent-differ-k/)
@@ -137,7 +138,7 @@
 - [ ] [Implement Merge-sort in-place](https://www.geeksforgeeks.org/in-place-merge-sort/)
 - [ ] [Partitioning and Sorting Arrays with Many Repeated Entries](https://www.baeldung.com/java-sorting-arrays-with-repeated-entries)
 
-#LinkedList
+### LinkedList
 
 - [ ] [Write a Program to reverse the Linked List. (Both Iterative and recursive)](https://www.geeksforgeeks.org/reverse-a-linked-list/)
 - [ ] [Reverse a Linked List in group of Given Size. [Very Imp]](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1)
@@ -174,7 +175,7 @@
 - [ ] [Program for n’th node from the end of a Linked List](https://practice.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1)
 - [ ] [Find the first non-repeating character from a stream of characters](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream/0)
 
-#Binary Trees
+### Binary Trees
 
 - [ ] [level order traversal](https://practice.geeksforgeeks.org/problems/level-order-traversal/1)
 - [ ] [Reverse Level Order traversal](https://practice.geeksforgeeks.org/problems/reverse-level-order-traversal/1)
@@ -196,13 +197,13 @@
 - [ ] [Convert Binary tree into Doubly Linked List](https://practice.geeksforgeeks.org/problems/binary-tree-to-dll/1)
 - [ ] [Convert Binary tree into Sum tree](https://practice.geeksforgeeks.org/problems/transform-to-sum-tree/1)
 - [ ] [Construct Binary tree from Inorder and preorder traversal](https://practice.geeksforgeeks.org/problems/construct-tree-1/1)
-- [ ] [Find minimum swaps required to convert a Binary tree into BST](https://www.geeksforgeeks.org/minimum-swap-required-convert-binary-tree-binary-search-tree/#:~:text=Given%20the%20array%20representation%20of,it%20into%20Binary%20Search%20Tree.&text=Swap%201%3A%20Swap%20node%208,node%209%20with%20node%2010.)
+- [ ] [Find minimum swaps required to convert a Binary tree into BST](https://www.geeksforgeeks.org/minimum-swap-required-convert-binary-tree-binary-search-tree/###:~:text=Given%20the%20array%20representation%20of,it%20into%20Binary%20Search%20Tree.&text=Swap%201%3A%20Swap%20node%208,node%209%20with%20node%2010.)
 - [ ] [Check if Binary tree is Sum tree or not](https://practice.geeksforgeeks.org/problems/sum-tree/1)
 - [ ] [Check if all leaf nodes are at same level or not](https://practice.geeksforgeeks.org/problems/leaf-at-same-level/1)
 - [ ] [Check if a Binary Tree contains duplicate subtrees of size 2 or more [ IMP ]](https://practice.geeksforgeeks.org/problems/duplicate-subtree-in-binary-tree/1)
 - [ ] [Check if 2 trees are mirror or not](https://practice.geeksforgeeks.org/problems/check-mirror-in-n-ary-tree/0)
 - [ ] [Sum of Nodes on the Longest path from root to leaf node ](https://practice.geeksforgeeks.org/problems/sum-of-the-longest-bloodline-of-a-tree/1)
-- [ ] [Check if given graph is tree or not.  [ IMP ]](https://www.geeksforgeeks.org/check-given-graph-tree/#:~:text=Since%20the%20graph%20is%20undirected,graph%20is%20connected%2C%20otherwise%20not.)
+- [ ] [Check if given graph is tree or not.  [ IMP ]](https://www.geeksforgeeks.org/check-given-graph-tree/###:~:text=Since%20the%20graph%20is%20undirected,graph%20is%20connected%2C%20otherwise%20not.)
 - [ ] [Find Largest subtree sum in a tree](https://www.geeksforgeeks.org/find-largest-subtree-sum-tree/)
 - [ ] [Maximum Sum of nodes in Binary tree such that no two are adjacent ](https://www.geeksforgeeks.org/maximum-sum-nodes-binary-tree-no-two-adjacent/)
 - [ ] [Print all "K" Sum paths in a Binary tree](https://www.geeksforgeeks.org/print-k-sum-paths-binary-tree/)
@@ -212,7 +213,7 @@
 - [ ] [Find all Duplicate subtrees in a Binary tree [ IMP ]](https://practice.geeksforgeeks.org/problems/duplicate-subtrees/1)
 - [ ] [Tree Isomorphism Problem](https://practice.geeksforgeeks.org/problems/check-if-tree-is-isomorphic/1)
 
-#Binary Search Trees
+### Binary Search Trees
 
 - [ ] [Fina a value in a BST](https://www.geeksforgeeks.org/binary-search-tree-set-1-search-and-insertion/)
 - [ ] [Deletion of a node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)
@@ -237,7 +238,7 @@
 - [ ] [Largest BST in a Binary Tree [ V.V.V.V.V IMP ]](https://practice.geeksforgeeks.org/problems/largest-bst/1https://practice.geeksforgeeks.org/problems/largest-bst/1)
 - [ ] [Flatten BST to sorted list](https://www.geeksforgeeks.org/flatten-bst-to-sorted-list-increasing-order/)
 
-#Greedy
+### Greedy
 
 - [ ] [Activity Selection Problem](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room/0)
 - [ ] [Job SequencingProblem](https://practice.geeksforgeeks.org/problems/job-sequencing-problem/0)
@@ -258,7 +259,7 @@
 - [ ] [Maximize the sum of arr[i]*i](https://practice.geeksforgeeks.org/problems/maximize-arrii-of-an-array/0)
 - [ ] [Maximum sum of absolute difference of an array](https://www.geeksforgeeks.org/maximum-sum-absolute-difference-array/)
 - [ ] [Maximize sum of consecutive differences in a circular array](https://practice.geeksforgeeks.org/problems/swap-and-maximize/0)
-- [ ] [Minimum sum of absolute difference of pairs of two arrays](https://www.geeksforgeeks.org/minimum-sum-absolute-difference-pairs-two-arrays/#:~:text=It%20consists%20of%20two%20steps,result%20to%20the%20sum%20S.)
+- [ ] [Minimum sum of absolute difference of pairs of two arrays](https://www.geeksforgeeks.org/minimum-sum-absolute-difference-pairs-two-arrays/###:~:text=It%20consists%20of%20two%20steps,result%20to%20the%20sum%20S.)
 - [ ] [Program for Shortest Job First (or SJF) CPU Scheduling](https://www.geeksforgeeks.org/program-for-shortest-job-first-or-sjf-cpu-scheduling-set-1-non-preemptive/)
 - [ ] [Program for Least Recently Used (LRU) Page Replacement algorithm](https://practice.geeksforgeeks.org/problems/page-faults-in-lru/0)
 - [ ] [Smallest subset with sum greater than all other elements](https://www.geeksforgeeks.org/smallest-subset-sum-greater-elements/)
@@ -275,7 +276,7 @@
 - [ ] [Rearrange characters in a string such that no two adjacent are same](https://practice.geeksforgeeks.org/problems/rearrange-characters/0)
 - [ ] [Find maximum sum possible equal sum of three stacks](https://www.geeksforgeeks.org/find-maximum-sum-possible-equal-sum-three-stacks/)
 
-#BackTracking
+### BackTracking
 
 - [ ] [Rat in a maze Problem](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1)
 - [ ] [Printing all solutions in N-Queen Problem](https://www.geeksforgeeks.org/printing-solutions-n-queen-problem/)
@@ -297,7 +298,7 @@
 - [ ] [Partition of a set intoK subsets with equal sum](https://practice.geeksforgeeks.org/problems/partition-array-to-k-subsets/1)
 - [ ] [Find the K-th Permutation Sequence of first N natural numbers](https://www.geeksforgeeks.org/find-the-k-th-permutation-sequence-of-first-n-natural-numbers/)
 
-#Stacks & Queues
+### Stacks & Queues
 
 - [ ] [ Implement Stack from Scratch](https://www.tutorialspoint.com/javaexamples/data_stack.htm)
 - [ ] [ Implement Queue from Scratch](https://www.geeksforgeeks.org/queue-set-1introduction-and-array-implementation/)
@@ -309,7 +310,8 @@
 - [ ] [Design a Stack that supports getMin() in O(1) time and O(1) extra space.](https://practice.geeksforgeeks.org/problems/special-stack/1)
 - [ ] [Find the next Greater element](https://practice.geeksforgeeks.org/problems/next-larger-element/0)
 - [ ] [The celebrity Problem](https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1)
-- [ ] [Arithmetic Expression evaluation](https://www.geeksforgeeks.org/arithmetic-expression-evalution/#:~:text=The%20stack%20organization%20is%20very,i.e.%2C%20A%20%2B%20B).)
+- [ ] [Arithmetic Expression evaluation](https://www.geeksforgeeks.org/arithmetic-expression-evalution/###:~:text=The%20stack%20organization%20is%20very,i.e.%2C%20A%20%2B%20B)
+  .)
 - [ ] [Evaluation of Postfix expression](https://practice.geeksforgeeks.org/problems/evaluation-of-postfix-expression/0)
 - [ ] [Implement a method to insert an element at its bottom without using any other data structure.](https://stackoverflow.com/questions/45130465/inserting-at-the-end-of-stack)
 - [ ] [Reverse a stack using recursion](https://www.geeksforgeeks.org/reverse-a-stack-using-recursion/)
@@ -338,14 +340,14 @@
 - [ ] [Queue based approach or first non-repeating character in a stream.](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream/0)
 - [ ] [Next Smaller Element](https://www.geeksforgeeks.org/next-smaller-element/)
 
-#Heap
+### Heap
 
 - [ ] [Implement a Maxheap/MinHeap using arrays and recursion.](https://www.geeksforgeeks.org/building-heap-from-array/)
 - [ ] [Sort an Array using heap. (HeapSort)](https://www.geeksforgeeks.org/heap-sort/)
 - [ ] [Maximum of all subarrays of size k.](https://www.geeksforgeeks.org/sliding-window-maximum-maximum-of-all-subarrays-of-size-k/)
 - [ ] [“k” largest element in an array](https://practice.geeksforgeeks.org/problems/k-largest-elements4206/1)
 - [ ] [Kth smallest and largest element in an unsorted array](https://www.geeksforgeeks.org/kth-smallestlargest-element-unsorted-array/)
-- [ ] [Merge “K” sorted arrays.  IMP ](https://practice.geeksforgeeks.org/problems/merge-k-sorted-arrays/1)
+- [ ] [Merge “K” sorted arrays. IMP ](https://practice.geeksforgeeks.org/problems/merge-k-sorted-arrays/1)
 - [ ] [Merge 2 Binary Max Heaps](https://practice.geeksforgeeks.org/problems/merge-two-binary-max-heap/0)
 - [ ] [Kth largest sum continuous subarrays](https://www.geeksforgeeks.org/k-th-largest-sum-contiguous-subarray/)
 - [ ] [Leetcode- reorganize strings](https://leetcode.com/problems/reorganize-string/)
@@ -359,7 +361,7 @@
 - [ ] [Rearrange characters in a string such that no two adjacent are same.](https://practice.geeksforgeeks.org/problems/rearrange-characters/0)
 - [ ] [Minimum sum of two numbers formed from digits of an array](https://practice.geeksforgeeks.org/problems/minimum-sum4058/1)
 
-#Graph
+### Graph
 
 - [ ] [Create a Graph, print it](https://1drv.ms/t/s!AqTOHFO77CqEiRua06v1PATyiFg5)
 - [ ] [Implement BFS algorithm ](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1)
@@ -384,7 +386,7 @@
 - [ ] [Implement Bellman Ford Algorithm](https://practice.geeksforgeeks.org/problems/negative-weight-cycle/0)
 - [ ] [Implement Floyd warshallAlgorithm](https://practice.geeksforgeeks.org/problems/implementing-floyd-warshall/0)
 - [ ] [Travelling Salesman Problem](https://www.geeksforgeeks.org/travelling-salesman-problem-set-1/)
-- [ ] [Graph ColouringProblem](https://www.geeksforgeeks.org/graph-coloring-applications/#:~:text=Graph%20coloring%20problem%20is%20to,are%20colored%20using%20same%20color.)
+- [ ] [Graph ColouringProblem](https://www.geeksforgeeks.org/graph-coloring-applications/###:~:text=Graph%20coloring%20problem%20is%20to,are%20colored%20using%20same%20color.)
 - [ ] [Snake and Ladders Problem](https://leetcode.com/problems/snakes-and-ladders/)
 - [ ] [Find bridge in a graph](https://www.geeksforgeeks.org/bridge-in-a-graph/)
 - [ ] [Count Strongly connected Components(Kosaraju Algo)](https://practice.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1)
@@ -406,7 +408,7 @@
 - [ ] [Minimise the cashflow among a given set of friends who have borrowed money from each other](https://www.geeksforgeeks.org/minimize-cash-flow-among-given-set-friends-borrowed-money/)
 - [ ] [Two Clique Problem](https://www.geeksforgeeks.org/two-clique-problem-check-graph-can-divided-two-cliques/)
 
-#Trie
+### Trie
 
 - [ ] [Construct a trie from scratch](https://www.geeksforgeeks.org/trie-insert-and-search/)
 - [ ] [Find shortest unique prefix for every word in a given list](https://www.geeksforgeeks.org/find-all-shortest-unique-prefixes-to-represent-each-word-in-a-given-list/)
@@ -415,7 +417,7 @@
 - [ ] [Implement a Phone Directory](https://practice.geeksforgeeks.org/problems/phone-directory/0)
 - [ ] [Print unique rows in a given boolean matrix](https://practice.geeksforgeeks.org/problems/unique-rows-in-boolean-matrix/1)
 
-#Dynamic Programming
+### Dynamic Programming
 
 - [ ] [Coin ChangeProblem](https://practice.geeksforgeeks.org/problems/coin-change2448/1)
 - [ ] [Knapsack Problem](https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem/0)
@@ -478,7 +480,7 @@
 - [ ] [Find if a string is interleaved of two other strings](https://practice.geeksforgeeks.org/problems/interleaved-strings/1)
 - [ ] [Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/)
 
-#Bit Manipulation
+### Bit Manipulation
 
 - [ ] [Count set bits in an integer](https://practice.geeksforgeeks.org/problems/set-bits0143/1)
 - [ ] [Find the two non-repeating elements in an array of repeating elements](https://practice.geeksforgeeks.org/problems/finding-the-numbers0215/1)
@@ -488,5 +490,5 @@
 - [ ] [Find position of the only set bit](https://practice.geeksforgeeks.org/problems/find-position-of-set-bit3706/1)
 - [ ] [Copy set bits in a range](https://www.geeksforgeeks.org/copy-set-bits-in-a-range/)
 - [ ] [Divide two integers without using multiplication, division and mod operator](https://www.geeksforgeeks.org/divide-two-integers-without-using-multiplication-division-mod-operator/)
-- [ ] [Calculate square of a number without using *, / and pow()](https://www.geeksforgeeks.org/calculate-square-of-a-number-without-using-and-pow/#:~:text=Given%20an%20integer%20n%2C%20calculate,*%2C%20%2F%20and%20pow().&text=A%20Simple%20Solution%20is%20to%20repeatedly%20add%20n%20to%20result.)
+- [ ] [Calculate square of a number without using *, / and pow()](https://www.geeksforgeeks.org/calculate-square-of-a-number-without-using-and-pow/###:~:text=Given%20an%20integer%20n%2C%20calculate,*%2C%20%2F%20and%20pow().&text=A%20Simple%20Solution%20is%20to%20repeatedly%20add%20n%20to%20result.)
 - [ ] [Power Set](https://practice.geeksforgeeks.org/problems/power-set4302/1)
