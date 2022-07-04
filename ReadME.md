@@ -2,12 +2,12 @@
 
 ### Array
 
-- [ ] 1. [Reverse an Array](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/)
-- [ ] 2. [Find Minimum and Maximum Element From Array](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/)
-- [ ] 3. [Find 2 nd Minimum and Maximum Element From Array](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/)
-- [ ] 4. [Find Kth Minimum and Maximum Element From Array](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/)
-- [ ] 5. [Given an Array of 0s,1s and 2s. Sort Array without using Sorting Algorithm](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0)
-- [ ] 6. [Move negative numbers beginning positive end with constant extra space](https://www.geeksforgeeks.org/move-negative-numbers-beginning-positive-end-constant-extra-space/)
+- [x] 1. [Reverse an Array](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/)
+- [x] 2. [Find Minimum and Maximum Element From Array](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/)
+- [x] 3. [Find 2 nd Minimum and Maximum Element From Array](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/)
+- [x] 4. [Find Kth Minimum and Maximum Element From Array](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/)
+- [x] 5. [Given an Array of 0s,1s and 2s. Sort Array without using Sorting Algorithm](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0)
+- [x] 6. [Move negative numbers beginning positive end with constant extra space](https://www.geeksforgeeks.org/move-negative-numbers-beginning-positive-end-constant-extra-space/)
 - [ ] 7. [Find Union and Intersection of two sorted Array](https://practice.geeksforgeeks.org/problems/union-of-two-arrays/0)
 - [ ] 8. [Write a Program to Cyclically Rotate Array by kth time](https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one/0)
 - [ ] 9. [Find the Largest contiguous SubArray](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0)
@@ -15,7 +15,7 @@
 - [ ] 11. [Minimum no of jump's](https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps/0)
 - [ ] 12. [find duplicate in an array of N+1 Integers](https://leetcode.com/problems/find-the-duplicate-number/)
 - [ ] 13. [Merge 2 sorted arrays without using Extra space.](https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays5135/1)
-- [ ] 14. [Kadane's Algo V.V.V.V.V IMP](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0)
+- [x] 14. [Kadane's Algo V.V.V.V.V IMP](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0)
 - [ ] 15. [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 - [ ] 16. [Next Permutation](https://leetcode.com/problems/next-permutation/)
 - [ ] 17. [Count Inversion](https://practice.geeksforgeeks.org/problems/inversion-of-array/0)
